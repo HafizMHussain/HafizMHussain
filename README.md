@@ -102,6 +102,16 @@ I build intelligent geospatial systems — from **satellite image analysis with 
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HafizMHussain/HafizMHussain/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
