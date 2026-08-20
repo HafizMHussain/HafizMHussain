@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hafiz+M+Hussain;Full+Stack+Web+GIS+Developer;GeoAI+%7C+Remote+Sensing+%7C+Python;Turning+Satellite+Data+into+Insights" alt="Typing SVG" />
+[![Snake animation workflow](https://github.com/HafizMHussain/HafizMHussain/actions/workflows/snake.yml/badge.svg?branch=main)](https://github.com/HafizMHussain/HafizMHussain/actions/workflows/snake.yml)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hafiz+M+Hussain;Full+Stac[...]" />
 
 <h3>🌍 Full Stack Web GIS Developer | GeoAI | Python | Software Developer</h3>
 
@@ -20,7 +22,7 @@
 
 ## 🚀 About Me
 
-I build intelligent geospatial systems — from **satellite image analysis with deep learning** to **full-stack web GIS applications**. My work sits at the intersection of **Earth Observation, AI, and software engineering**, solving real-world problems like flood mapping, disaster vulnerability analysis, and land cover classification.
+I build intelligent geospatial systems — from **satellite image analysis with deep learning** to **full-stack web GIS applications**. My work sits at the intersection of **Earth Observation, AI,[...]
 
 - 🛰️ Working on **GeoAI & Remote Sensing** — SAR flood mapping, change detection, land cover classification
 - 🌊 Building **climate intelligence & early warning systems** for flood-prone regions
@@ -76,10 +78,10 @@ I build intelligent geospatial systems — from **satellite image analysis with 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🌊 [Pak-ClimInt](https://github.com/HafizMHussain/Pak-ClimInt) | Multi-agentic climate intelligence system for Pakistan — flood early warning & climate analytics | `Python` `GeoAI` `Agents` |
-| 🛰️ [Flood Mapping Ontario](https://github.com/HafizMHussain/flood-mapping-ontario) | Sentinel-1 SAR flood mapping on agricultural land using Google Earth Engine + Random Forest | `GEE` `SAR` `ML` |
-| 🏗️ [Building Change Detection](https://github.com/HafizMHussain/Building-Change-Detection-Deep-Learning) | Deep learning change detection on satellite imagery — 6 architectures incl. U-Net & ConvLSTM | `PyTorch` `CV` |
-| 📊 [AHP Vulnerability Analysis](https://github.com/HafizMHussain/AHP-Vulnerability-Analysis) | Multi-criteria disaster vulnerability analysis using the Analytic Hierarchy Process | `Python` `MCDA` |
+| 🌊 [Pak-ClimInt](https://github.com/HafizMHussain/Pak-ClimInt) | Multi-agentic climate intelligence system for Pakistan — flood early warning & climate analytics | `Python` `GeoAI` `Agents` [...]
+| 🛰️ [Flood Mapping Ontario](https://github.com/HafizMHussain/flood-mapping-ontario) | Sentinel-1 SAR flood mapping on agricultural land using Google Earth Engine + Random Forest | `GEE` `SAR[...]
+| 🏗️ [Building Change Detection](https://github.com/HafizMHussain/Building-Change-Detection-Deep-Learning) | Deep learning change detection on satellite imagery — 6 architectures incl. U-Ne[...]
+| 📊 [AHP Vulnerability Analysis](https://github.com/HafizMHussain/AHP-Vulnerability-Analysis) | Multi-criteria disaster vulnerability analysis using the Analytic Hierarchy Process | `Python` `M[...]
 | 🌍 [EuroSAT Land Cover Classification](https://github.com/HafizMHussain/EuroSAT-Land-Cover-Classification) | Land cover classification on Sentinel-2 EuroSAT dataset | `Deep Learning` |
 | 🧩 [ArcGIS Pro Buffer Plugin](https://github.com/HafizMHussain/ArcGIS-Pro-3.6-Buffer-Plugin) | Custom ArcGIS Pro 3.6 add-in for buffer geoprocessing | `C#` `ArcGIS SDK` |
 | 🗺️ [Geospatial Data Visualization](https://github.com/HafizMHussain/Geospatial-Data-Visualization) | Interactive web maps & spatial data visualization | `JavaScript` `Leaflet` |
